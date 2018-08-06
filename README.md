@@ -1,5 +1,5 @@
 # steam-linux-client
-Issues experienced on the Steam linux client
+Issues experienced on the Steam linux client.
 
 ##### Problem
 
