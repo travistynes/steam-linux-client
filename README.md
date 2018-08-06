@@ -1,12 +1,14 @@
 # steam-linux-client
 Issues experienced on the Steam linux client
 
-**Problem**
+##### Problem
+
 Only the game library displays. Steam browser, store, community, profile, etc. only show a black / blank screen and loading indicator.
 
-*Date:* August 5, 2018
-*OS:* Linux Mint 18 Cinnamon 64-bit
-*Kernel:* 4.4.0-21-generic
+* *Date:* Aug 5, 2018
+* *OS:* Linux Mint 18 Cinnamon 64-bit
+* *Kernel:* 4.4.0-21-generic
+* *Steam build:* Aug 1, 2018 at 22:27:11
 
 Running steam from the terminal revealed the following, periodic error message:
 
